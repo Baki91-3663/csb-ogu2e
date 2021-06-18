@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+*.ipynb
+*.dist-info/
+*.egg-info/
+*.pyc
+tags
